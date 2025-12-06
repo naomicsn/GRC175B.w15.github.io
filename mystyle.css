@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* css document */
 body {
-    background-image: url("bgimage_optimized.jpg");
+    background-image: url("https://github.com/naomicsn/GRC175B.w15.github.io/blob/b519d18f969e470103eb39c5f93b0bf4d114edfa/bgimage_optimized.jpg");
     background-size: cover;
     font-family: Catseye, Arial Narrow;    
 }
@@ -378,5 +378,6 @@ h3 {
     margin-right: 80pt;
 
     }
+
 
 
