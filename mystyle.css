@@ -2,7 +2,7 @@
 /* css document */
 body {
     background-image: url('./bgimage_optimized.jpg'/);
-    backgroundcolor: blue;
+    background-color: blue;
     background-size: cover;
     font-family: Catseye, Arial Narrow;
 }
@@ -253,6 +253,7 @@ h2 {
 
 .ingredients1 > div {
     background-image: url('./watermelon_small.jpg'/);
+    background-color: red;
     color: #000000;
     width: 230px;
     height: 200px;
@@ -379,6 +380,7 @@ h3 {
     margin-right: 80pt;
 
     }
+
 
 
 
